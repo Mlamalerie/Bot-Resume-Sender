@@ -28,15 +28,4 @@ Pour ce faire :
 
 ---
 
-```python
-data = None
-for mot_cle in ["IA/AI", "NLP", "MachineLearning", "AlgorithmeGenetique/GeneticAlgorithme", "Python", "Data"]:
-   data.append(save_offers_to_excel(mot_cle, count=50))
-
-data = pd.concat(data)
-
-do_nlp(data)
-
-````
-
 Note : à finir avant 2023
