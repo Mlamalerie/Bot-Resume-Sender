@@ -1,9 +1,8 @@
 # Bot-Resume-Sender
-Bot who send my Resume for me 
 
---- 
 J'en ai marre d'envoyer des CV pour ma recherche de stage, c'est fatiguant et c'est répétitif ! Ce repesitory est un rappel à moi-même de créer un bot qui envoie un nombre N de CV selon certains critère de recherche et certain mots clés présent dans l'offre (linkedIn ou toute plateforme qui demande juste d'envoyer son CV).
 
+## Brouillon
 Pour ce faire :
 
 > Etape 1 : Récupérer de la données
